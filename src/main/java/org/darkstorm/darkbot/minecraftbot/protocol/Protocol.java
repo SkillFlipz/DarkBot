@@ -4,7 +4,7 @@ public interface Protocol {
 	public static final int V1_5_2 = 61;
 	public static final int V1_6_1 = 72;
 	public static final int V1_6_2 = 74;
-	public static final int V1_7_4 = 4;
+	public static final int V1_7_2 = 4;
 
 	public int getVersion();
 
